@@ -1,0 +1,24 @@
+{
+  "name": "my-lib",
+  "version": "0.0.1",
+  "description": "UI component library with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alveloper/my-lib.git"
+  },
+  "author": "Suyeon Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alveloper/my-lib/issues"
+  },
+  "homepage": "https://github.com/alveloper/my-lib#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "react": "^17.0.2",
+    "typescript": "^4.5.5"
+  }
+}
