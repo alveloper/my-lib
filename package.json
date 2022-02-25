@@ -1,5 +1,5 @@
 {
-  "name": "my-lib",
+  "name": "my-lib-test-alex",
   "version": "0.0.1",
   "description": "UI component library with React",
   "main": "dist/cjs/index.js",
