@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { InputProps } from "./input.type";
+import { InputProps } from "./input.types";
 
 const StyledInput = styled.input<InputProps>`
   height: 40px;
